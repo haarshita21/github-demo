@@ -1,2 +1,3 @@
 # github-demo
-trial
+trial, my first repository
+author- haarshita
